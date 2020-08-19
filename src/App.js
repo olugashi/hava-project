@@ -6,9 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <p>חווה תתחילי לעבודה את צריכה לסיים את הפרויקט גמר שלך !!!</p>
       </header>
     </div>
   );
